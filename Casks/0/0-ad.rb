@@ -1,5 +1,5 @@
 cask "0-ad" do
-  arch arm: "osx-aarch64", intel: "osx64"
+  arch arm: "osx-aarch64", intel: "osx64d"
 
   version "0.0.26-alpha"
   sha256 arm:   "3ef9a974ffa6f32577ba54f73b34a9d81a3798781fd8e30ea836626e3fdd3ac5",
